@@ -2,7 +2,7 @@
 <h3 align="center">Software Testing Enginner</h3>
 
 <br>
-<p><img align="right" width="400px" src="https://lh6.googleusercontent.com/enpmt0YqUWpX9IHo4A3vxpDgeqqTMFahdEa6EejRZTPkgCCezJ-wD-wh-I5nYJzDqoB1iavWcZ-St01nDq2S=w1920-h972-rw" alt="nadas90" /></p>
+<p><img align="right" width="400px" src="https://lh3.googleusercontent.com/IaCJlNPSKGUid7vgMG4U_4xxQmYg17lns8WWpx76At7jSVQ102Pab0KxuVlM2ry8aAnRe1GWQL9CH6rQl1N6=w1920-h972-rw" alt="nadas90" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadas90&label=Profile%20views&color=0e75b6&style=flat" alt="nadas90" /> </p>
 
