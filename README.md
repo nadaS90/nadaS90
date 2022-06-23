@@ -27,12 +27,12 @@
 
 <h3 align="left">Certifications:</h3>
 
-<code><img height= "40" alt="ISTQB foundation" src="https://lh5.googleusercontent.com/d8mwlvOT5GizZzATFiHzKJ5uG1i8TubJUMhMXw2ETB7EuEi3X3Ja7_rOajkcy_k03Uq9CezV4rXLgd_jQbzU=w1920-h972-rw"></code>
-<code><img height= "40" alt="ISTQB foundation agile" src="https://lh3.googleusercontent.com/vmtlfAiE55q_Xuah3k3mGiyQoy5JuZcaIWAksJUduZwRON_iM-1JQD3nSx1jxx75x0Iw3fkhNm0VWQNOmmy6=w1920-h972-rw"></code>
-<code><img height= "40" alt="ISTQB mobile" src="https://lh6.googleusercontent.com/fz8Kggkby7qTIFzt5Ag4gIrajE2wJiso8iAVI4ga29y-O6Urobn2HbhLz7sYLmn9j4WnHrU1iiATtZAyekiW=w1920-h972-rw"></code>
-<code><img height= "40" alt="Certiprof" src="https://lh4.googleusercontent.com/m05ducJMmD-CTMtqsh94c4UjGLuoWj5KGQQSUeKdpQ_6ojlFsAWHXwBymIqL2rMO7nf6yAhuG8oiMj372ooI=w1920-h972"></code>
-<code><img height= "40" alt="IC agile" src="https://lh3.googleusercontent.com/ahZ_R54YULnW7nTB-o3pjSVBM9BRxxtp0Qowk-N3MRMUsjm7QwrqWYV52B0ZiHhmmcT6db0fYikA9tczY4b1=w1920-h972-rw"></code>
-<code><img height= "40" alt="SAFe 5" src="https://lh4.googleusercontent.com/wi5s2cd-NjbGkAsqMyOpDSZphtSsUocXpGhdvcgy7MgZUDuLhFzCViOVKJ19tuF1K-K-_B3flhXzkRCGHW2m=w1920-h972-rw"></code>
+<code><img height= "40" alt="ISTQB foundation" src="https://lh4.googleusercontent.com/TAm4b-5av9BM3cvws9GZ_PazhuCRlQUwE0NGr2dOjGpFp_tTOXdr_XILhk7IibtjBBTbsNY2JI-W07UwNnyL=w1920-h972-rw"></code>
+<code><img height= "40" alt="ISTQB foundation agile" src="https://lh4.googleusercontent.com/BFX7UPiLVYdCVdJX4eb71JzGVotlwQaNcjA3do51uu8qS2cxwGXYYwPpvKzwQUoRj3Ab2PxBzTpG_9fHWGrx=w1920-h972-rw"></code>
+<code><img height= "40" alt="ISTQB mobile" src="https://lh4.googleusercontent.com/isOXywBRk_e9DKwiXtQEOchKI1rh3PNgL7E3Bs7p6lhqUOcH5RRtaGjyt2DLlDB55neKbsQ_izlxAyFIeZsJ=w1920-h972-rw"></code>
+<code><img height= "40" alt="Certiprof" src="https://lh6.googleusercontent.com/3ARBjRvOyPZv2torq3MKJ9zAT9l5QdHDSrcNetCCGLZZlXlmK_GjBxAKKhYzou4uZ-pmX2XrGby5ST92DARa=w1920-h972"></code>
+<code><img height= "40" alt="IC agile" src="https://lh6.googleusercontent.com/lsB2p9TcXwXThwHlPAorAQtDBZiUsXnD9YIDb0MseZ9NAbsEyHmQ1iLX_J7faHD4i3y8E17x4NiViflzFUtG=w1920-h972-rw"></code>
+<code><img height= "40" alt="SAFe 5" src="https://lh4.googleusercontent.com/AFGhVslZkv1ShDbIki7WnNjvK8WbiORcVIraKvTTRP5tX5a6UFCHWLaIA-9MDw-NtVPfr2SCeRMdLRqxtNmZ=w1920-h972-rw"></code>
 
 <h3>Statistical Data:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadas90&show_icons=true&locale=en&layout=compact" alt="nadas90" /></p>
