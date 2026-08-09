@@ -18,19 +18,19 @@
 
 ### 👩‍💻 About Me
 
-* 🔭 I’m currently working on **scalable test automation frameworks and end-to-end automation solutions**
+- 🔭 I’m currently working on **scalable test automation frameworks and end-to-end automation solutions**
 
-* 🌱 I’m currently expanding my expertise in **Playwright, TypeScript, and modern test automation architecture**
+- 🚀 Expanding my expertise in **Playwright, TypeScript, and modern test automation architecture**
 
-* 💻 My core automation stack includes **C#, Selenium WebDriver, SpecFlow, NUnit, and Playwright**
+- 💻 My core automation stack includes **C#, Selenium WebDriver, SpecFlow, NUnit, and Playwright**
 
-* ⚙️ I work with **CI/CD pipelines, Jenkins, Git, GitHub, and Azure DevOps**
+- ⚙️ Experienced with **CI/CD pipelines, Jenkins, Git, GitHub, and Azure DevOps**
 
-* 📫 How to reach me: **[engnada_45@outlook.com](mailto:engnada_45@outlook.com)**
+- 📫 How to reach me: **[engnada_45@outlook.com](mailto:engnada_45@outlook.com)**
 
-* 📄 Know about my experience: **[Resume](https://drive.google.com/file/d/1BS0J11OwF04QLAb0UiAHLu-bobSBDPTP/view?usp=sharing)**
+- 📄 Know about my experience: **[Resume](https://drive.google.com/file/d/1BS0J11OwF04QLAb0UiAHLu-bobSBDPTP/view?usp=sharing)**
 
-* ⚡ Fun fact: **Food 🍔, anime 🎌, and automation 🤖 make everything better**
+- ⚡ Fun fact: **Food 🍔, anime 🎌, and automation 🤖 make everything better**
 
 ---
 
